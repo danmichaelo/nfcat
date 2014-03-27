@@ -1,0 +1,10 @@
+{
+  "name": "nfcat",
+  "author": "Dan Michael O. Heggø <danmichaelo@gmail.com>",
+  "description": "nfcbookscanner/nfcat is a library self service app for NFC-enabled (Android) phones",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "messageformat": "master"
+  }
+}

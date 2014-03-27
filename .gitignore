@@ -1,0 +1,6 @@
+/vendor/
+/app/storage/
+/public/covercache/
+*.mo
+/composer.lock
+/app/database/production.sqlite

@@ -1,0 +1,172 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR "Dan Michael O. Heggø"
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \"NFCAT\" \"v0.1.0\"\n"
+"Report-Msgid-Bugs-To: \"danmichaelo@gmail.com\"\n"
+"POT-Creation-Date: 2013-08-18 21:11+0200\n"
+"PO-Revision-Date: 2013-08-18 21:14+0100\n"
+"Last-Translator: Dan Michael O. Heggø <danmichaelo@gmail.com>\n"
+"Language-Team: \n"
+"Language: nb_NO\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#: /data/nfcat/app/storage/l4gettext/99b3ac2cb8a3e3474753cbc03dd4d282.php:4
+msgid "Welcome!"
+msgstr "Velkommen!"
+
+#: /data/nfcat/app/storage/l4gettext/99b3ac2cb8a3e3474753cbc03dd4d282.php:26
+msgid "Library card number (10 characters):"
+msgstr "Lånekort/BIBSYS-nr. (10 tegn):"
+
+#: /data/nfcat/app/storage/l4gettext/99b3ac2cb8a3e3474753cbc03dd4d282.php:33
+#: /data/nfcat/app/storage/l4gettext/99b3ac2cb8a3e3474753cbc03dd4d282.php:64
+msgid "Continue"
+msgstr "Fortsett"
+
+#: /data/nfcat/app/storage/l4gettext/99b3ac2cb8a3e3474753cbc03dd4d282.php:39
+msgid "Language"
+msgstr "Språk"
+
+#: /data/nfcat/app/storage/l4gettext/99b3ac2cb8a3e3474753cbc03dd4d282.php:50
+msgid "Browsing the catalogue..."
+msgstr "Blar i låntakerkatalogen…"
+
+#: /data/nfcat/app/storage/l4gettext/99b3ac2cb8a3e3474753cbc03dd4d282.php:67
+msgid "Not receiving SMS verification code?"
+msgstr "Ikke fått engangskode på SMS?"
+
+#: /data/nfcat/app/storage/l4gettext/99b3ac2cb8a3e3474753cbc03dd4d282.php:70
+msgid "Please allow some time for network delays"
+msgstr "Det kan være forsinkelser i nettverket"
+
+#: /data/nfcat/app/storage/l4gettext/99b3ac2cb8a3e3474753cbc03dd4d282.php:71
+msgid ""
+"Switched phone no. since you enrolled university? Check with a librarian if "
+"we have your correct number."
+msgstr ""
+"Byttet telefonnr. siden du fikk lånekort? Sjekk med en bibliotekar om vi har "
+"ditt riktige telefonnr."
+
+#: /data/nfcat/app/storage/l4gettext/99b3ac2cb8a3e3474753cbc03dd4d282.php:81
+#: /data/nfcat/app/storage/l4gettext/99b3ac2cb8a3e3474753cbc03dd4d282.php:109
+msgid "Hold on... Library cat is working..."
+msgstr "Overbibliotekaren kontrollerer…"
+
+#: /data/nfcat/app/storage/l4gettext/99b3ac2cb8a3e3474753cbc03dd4d282.php:92
+msgid "Final step – we promise!"
+msgstr "Siste steg – vi lover!"
+
+#: /data/nfcat/app/storage/l4gettext/99b3ac2cb8a3e3474753cbc03dd4d282.php:97
+msgid ""
+"Please choose <em>your own</em> four digit pin code. You will be asked for "
+"this when checking out books using your mobile."
+msgstr ""
+"Velg <em>din egen</em> fire-sifrede pin-kode. Du vil bli spurt om denne når "
+"du låner bøker med mobilen."
+
+#: /data/nfcat/app/storage/l4gettext/99b3ac2cb8a3e3474753cbc03dd4d282.php:100
+msgid "Complete!"
+msgstr "Ferdig!"
+
+#: /data/nfcat/app/storage/l4gettext/99b3ac2cb8a3e3474753cbc03dd4d282.php:117
+msgid "Congrats! You are now ready to use your phone to checkout books!"
+msgstr "Gratulerer! Du er nå klar til å låne bøker med mobilen!"
+
+#: /data/nfcat/app/storage/l4gettext/99b3ac2cb8a3e3474753cbc03dd4d282.php:204
+msgid "The card number is not of correct length"
+msgstr "Kortnummeret har ikke riktig lengde."
+
+#: /data/nfcat/app/storage/l4gettext/99b3ac2cb8a3e3474753cbc03dd4d282.php:205
+msgid ""
+"The card number was not found in BIBSYS. If you entered it correctly, please "
+"contact a librarian for assistance."
+msgstr ""
+"Kortnummeret ble ikke funnet i BIBSYS. Hvis du har skrevet det riktig må du "
+"ta kontakt med en bibliotekar for å få hjelp."
+
+#: /data/nfcat/app/storage/l4gettext/99b3ac2cb8a3e3474753cbc03dd4d282.php:206
+msgid ""
+"There is no cell phone number connected with your library card number. "
+"pPlease contact a librarian for assistance."
+msgstr ""
+"Det er ikke noe telefonnummer knyttet til brukeren din. En bibliotekar kan "
+"hjelpe deg."
+
+#: /data/nfcat/app/storage/l4gettext/99b3ac2cb8a3e3474753cbc03dd4d282.php:207
+msgid ""
+"The format of your registered phone number could not be recognized. Please "
+"contact a librarian for assistance."
+msgstr ""
+"Telefonnummeret ditt har et ukjent format. Kontakt en bibliotekar for hjelp."
+
+#: /data/nfcat/app/storage/l4gettext/99b3ac2cb8a3e3474753cbc03dd4d282.php:208
+msgid ""
+"We did not send you a new activation code since we sent one less than 30 "
+"minutes ago. The previous activation code is still valid."
+msgstr ""
+"Siden det er mindre enn 30 minutter siden forrige gang vi sendte deg en kode "
+"har vi ikke sendt en ny kode. Den forrige koden er fortsatt gyldig."
+
+#: /data/nfcat/app/storage/l4gettext/99b3ac2cb8a3e3474753cbc03dd4d282.php:209
+msgid ""
+"We have sent you an SMS verification code valid for 30 minutes. Please enter "
+"it below:"
+msgstr ""
+"Vi har sendt deg en engangskode på SMS som er gyldig i 30 minutter. Oppgi "
+"den her:"
+
+#: /data/nfcat/app/storage/l4gettext/99b3ac2cb8a3e3474753cbc03dd4d282.php:210
+msgid ""
+"Oh no, our server is not well right now... Please try again in a short time."
+msgstr ""
+"Åh nei, serveren vår har problemer akkurat nå! Vi må nesten be deg prøve "
+"igjen om en liten stund."
+
+#: /data/nfcat/app/storage/l4gettext/99b3ac2cb8a3e3474753cbc03dd4d282.php:211
+msgid "Oh no, we have network problems."
+msgstr "Huff, det oppsto et nettverksproblem…"
+
+#: /data/nfcat/app/storage/l4gettext/99b3ac2cb8a3e3474753cbc03dd4d282.php:212
+msgid "Ops, the code has expired. To request a new one, just press continue."
+msgstr "Oi, koden er utløpt. Om du ønsker en ny trykker du bare fortsett."
+
+#: /data/nfcat/app/storage/l4gettext/99b3ac2cb8a3e3474753cbc03dd4d282.php:213
+msgid "Ops, seems like the code you entered was not valid."
+msgstr "Oi, det var ikke riktig kode."
+
+#: /data/nfcat/app/storage/l4gettext/99b3ac2cb8a3e3474753cbc03dd4d282.php:214
+msgid ""
+"Sorry, to protect your security we only allow three attemps. You can request "
+"a new activation code once the current has expired."
+msgstr ""
+"For å beskytte din sikkerhet tillater vi kun tre forsøk. Du kan be om en ny "
+"kode med en gang den nåværende har utløpt."
+
+#: /data/nfcat/app/storage/l4gettext/99b3ac2cb8a3e3474753cbc03dd4d282.php:215
+msgid "Sorry, the PIN code must consist of exactly four digits."
+msgstr "Beklager, PIN-koden må bestå av akkurat fire siffer."
+
+#: /data/nfcat/app/storage/l4gettext/99b3ac2cb8a3e3474753cbc03dd4d282.php:216
+msgid ""
+"Library cat finds your PIN cute, but is a bit concerned about your security. "
+"Please try a slightly more secure PIN."
+msgstr ""
+"Bibliotekskatten synes PIN-koden din er søt, men er litt bekymret for "
+"sikkerheten din. Prøv å finne en PIN-kode som er bittelitt sikrere."
+
+#: /data/nfcat/app/storage/l4gettext/99b3ac2cb8a3e3474753cbc03dd4d282.php:217
+msgid "A PIN code has already been created for this device."
+msgstr "Det er allerede opprettet en PIN-kode for denne enheten."
+
+#~ msgid "The card number was not found in BIBSYS"
+#~ msgstr ""
+#~ "Kortnummeret ble ikke funnet i BIBSYS. En bibliotekar kan hjelpe deg."

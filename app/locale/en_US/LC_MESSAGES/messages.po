@@ -1,0 +1,168 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR "Dan Michael O. Heggø"
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \"NFCAT\" \"v0.1.0\"\n"
+"Report-Msgid-Bugs-To: \"danmichaelo@gmail.com\"\n"
+"POT-Creation-Date: 2013-08-18 21:11+0200\n"
+"PO-Revision-Date: 2013-08-18 21:12+0100\n"
+"Last-Translator: Dan Michael O. Heggø <danmichaelo@gmail.com>\n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#: /data/nfcat/app/storage/l4gettext/99b3ac2cb8a3e3474753cbc03dd4d282.php:4
+msgid "Welcome!"
+msgstr "Welcome!"
+
+#: /data/nfcat/app/storage/l4gettext/99b3ac2cb8a3e3474753cbc03dd4d282.php:26
+msgid "Library card number (10 characters):"
+msgstr "Library card number (10 characters):"
+
+#: /data/nfcat/app/storage/l4gettext/99b3ac2cb8a3e3474753cbc03dd4d282.php:33
+#: /data/nfcat/app/storage/l4gettext/99b3ac2cb8a3e3474753cbc03dd4d282.php:64
+msgid "Continue"
+msgstr "Continue"
+
+#: /data/nfcat/app/storage/l4gettext/99b3ac2cb8a3e3474753cbc03dd4d282.php:39
+msgid "Language"
+msgstr "Språk"
+
+#: /data/nfcat/app/storage/l4gettext/99b3ac2cb8a3e3474753cbc03dd4d282.php:50
+msgid "Browsing the catalogue..."
+msgstr "Browsing the catalogue…"
+
+#: /data/nfcat/app/storage/l4gettext/99b3ac2cb8a3e3474753cbc03dd4d282.php:67
+msgid "Not receiving SMS verification code?"
+msgstr "Not receiving SMS verification code?"
+
+#: /data/nfcat/app/storage/l4gettext/99b3ac2cb8a3e3474753cbc03dd4d282.php:70
+msgid "Please allow some time for network delays"
+msgstr "Please allow some time for network delays"
+
+#: /data/nfcat/app/storage/l4gettext/99b3ac2cb8a3e3474753cbc03dd4d282.php:71
+msgid ""
+"Switched phone no. since you enrolled university? Check with a librarian if "
+"we have your correct number."
+msgstr ""
+"Switched phone no. since you got your card? Check with a librarian if we "
+"have your correct number."
+
+#: /data/nfcat/app/storage/l4gettext/99b3ac2cb8a3e3474753cbc03dd4d282.php:81
+#: /data/nfcat/app/storage/l4gettext/99b3ac2cb8a3e3474753cbc03dd4d282.php:109
+msgid "Hold on... Library cat is working..."
+msgstr "Hold on… Library cat is working…"
+
+#: /data/nfcat/app/storage/l4gettext/99b3ac2cb8a3e3474753cbc03dd4d282.php:92
+msgid "Final step – we promise!"
+msgstr "Final step – we promise!"
+
+#: /data/nfcat/app/storage/l4gettext/99b3ac2cb8a3e3474753cbc03dd4d282.php:97
+msgid ""
+"Please choose <em>your own</em> four digit pin code. You will be asked for "
+"this when checking out books using your mobile."
+msgstr ""
+"Please choose <em>your own</em> four digit pin code. You will be asked for "
+"this when checking out books using your mobile."
+
+#: /data/nfcat/app/storage/l4gettext/99b3ac2cb8a3e3474753cbc03dd4d282.php:100
+msgid "Complete!"
+msgstr "Complete!"
+
+#: /data/nfcat/app/storage/l4gettext/99b3ac2cb8a3e3474753cbc03dd4d282.php:117
+msgid "Congrats! You are now ready to use your phone to checkout books!"
+msgstr "Congrats! You are now ready to use your phone to checkout books!"
+
+#: /data/nfcat/app/storage/l4gettext/99b3ac2cb8a3e3474753cbc03dd4d282.php:204
+msgid "The card number is not of correct length"
+msgstr "The card number is not of correct length"
+
+#: /data/nfcat/app/storage/l4gettext/99b3ac2cb8a3e3474753cbc03dd4d282.php:205
+msgid ""
+"The card number was not found in BIBSYS. If you entered it correctly, please "
+"contact a librarian for assistance."
+msgstr ""
+"The card number was not found in BIBSYS. If you entered it correctly, please "
+"contact a librarian for assistance."
+
+#: /data/nfcat/app/storage/l4gettext/99b3ac2cb8a3e3474753cbc03dd4d282.php:206
+msgid ""
+"There is no cell phone number connected with your library card number. "
+"pPlease contact a librarian for assistance."
+msgstr ""
+"There is no cell phone number connected with your library card number. "
+"pPlease contact a librarian for assistance."
+
+#: /data/nfcat/app/storage/l4gettext/99b3ac2cb8a3e3474753cbc03dd4d282.php:207
+msgid ""
+"The format of your registered phone number could not be recognized. Please "
+"contact a librarian for assistance."
+msgstr ""
+"The format of your registered phone number could not be recognized. Please "
+"contact a librarian for assistance."
+
+#: /data/nfcat/app/storage/l4gettext/99b3ac2cb8a3e3474753cbc03dd4d282.php:208
+msgid ""
+"We did not send you a new activation code since we sent one less than 30 "
+"minutes ago. The previous activation code is still valid."
+msgstr ""
+"We did not send you a new activation code since we sent one less than 30 "
+"minutes ago. The previous activation code is still valid."
+
+#: /data/nfcat/app/storage/l4gettext/99b3ac2cb8a3e3474753cbc03dd4d282.php:209
+msgid ""
+"We have sent you an SMS verification code valid for 30 minutes. Please enter "
+"it below:"
+msgstr ""
+"We have sent you an SMS verification code valid for 30 minutes. Please enter "
+"it below:"
+
+#: /data/nfcat/app/storage/l4gettext/99b3ac2cb8a3e3474753cbc03dd4d282.php:210
+msgid ""
+"Oh no, our server is not well right now... Please try again in a short time."
+msgstr ""
+"Oh no, our server is not well right now… Please try again in a short time."
+
+#: /data/nfcat/app/storage/l4gettext/99b3ac2cb8a3e3474753cbc03dd4d282.php:211
+msgid "Oh no, we have network problems."
+msgstr "Oh no, we have network problems."
+
+#: /data/nfcat/app/storage/l4gettext/99b3ac2cb8a3e3474753cbc03dd4d282.php:212
+msgid "Ops, the code has expired. To request a new one, just press continue."
+msgstr "Ops, the code has expired. To request a new one, just press continue."
+
+#: /data/nfcat/app/storage/l4gettext/99b3ac2cb8a3e3474753cbc03dd4d282.php:213
+msgid "Ops, seems like the code you entered was not valid."
+msgstr "Ops, seems like the code you entered was not valid."
+
+#: /data/nfcat/app/storage/l4gettext/99b3ac2cb8a3e3474753cbc03dd4d282.php:214
+msgid ""
+"Sorry, to protect your security we only allow three attemps. You can request "
+"a new activation code once the current has expired."
+msgstr ""
+"Sorry, to protect your security we only allow three attemps. You can request "
+"a new activation code once the current has expired."
+
+#: /data/nfcat/app/storage/l4gettext/99b3ac2cb8a3e3474753cbc03dd4d282.php:215
+msgid "Sorry, the PIN code must consist of exactly four digits."
+msgstr "Sorry, the PIN code must consist of exactly four digits."
+
+#: /data/nfcat/app/storage/l4gettext/99b3ac2cb8a3e3474753cbc03dd4d282.php:216
+msgid ""
+"Library cat finds your PIN cute, but is a bit concerned about your security. "
+"Please try a slightly more secure PIN."
+msgstr ""
+"Library cat finds your PIN cute, but is a bit concerned about your security. "
+"Please try a slightly more secure PIN."
+
+#: /data/nfcat/app/storage/l4gettext/99b3ac2cb8a3e3474753cbc03dd4d282.php:217
+msgid "A PIN code has already been created for this device."
+msgstr "A PIN code has already been created for this device."

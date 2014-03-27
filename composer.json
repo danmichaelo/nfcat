@@ -1,0 +1,53 @@
+{
+	"name": "danmichaelo/nfcat",
+	"description": "Server for the BookScanner Android RFID book lending app.",
+    "authors": [
+        {
+            "name": "Dan Michael O. Heggø",
+            "email": "danmichaelo@gmail.com"
+        }
+    ],
+	"keywords": [j],
+	"require": {
+		"laravel/framework": "4.1.*",
+		"civocr/nexmo-php-lib": "dev-master",
+        "danmichaelo/ncip": "dev-master",
+        "netson/l4gettext": "1.3.*",
+        "ext-gettext": "*",
+        "way/generators": "dev-master"
+    },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url":  "https://github.com/danmichaelo/php-ncip.git"
+        }
+    ],
+	"autoload": {
+		"classmap": [
+			"app/commands",
+			"app/controllers",
+			"app/models",
+			"app/database/migrations",
+			"app/database/seeds",
+			"app/tests/TestCase.php"
+		]
+	},
+	"scripts": {
+		"post-install-cmd": [
+			"php artisan optimize"
+		],
+		"pre-update-cmd": [
+			"php artisan clear-compiled"
+		],
+		"post-update-cmd": [
+			"php artisan optimize"
+		],
+		"post-create-project-cmd": [
+			"php artisan key:generate"
+		]
+	},
+	"config": {
+		"preferred-install": "dist"
+	},
+	"minimum-stability": "dev"
+}
